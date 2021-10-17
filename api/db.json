@@ -1,0 +1,239 @@
+{
+  "users": [
+    {
+      "id": "7ec3d2f0-641e-11e9-9d5d-1b8ad05606d1",
+      "password": "$2b$10$RNCVsIxNLKP8Gl.BPoedXuwGczl527UfsLDYcb.9V856ng4kxULrS",
+      "favs": [
+        "18",
+        "1"
+      ],
+      "avatar": "https://gravatar.com/avatar/",
+      "email": "juanthebost@gmail.com"
+    },
+    {
+      "id": "a882e1d0-6428-11e9-9b1f-8980b7d40890",
+      "password": "$2b$10$BffxqFIacmPkKr2VZgyu7.r0nMmCMbL3nNw3CdWLpKVSKWkUAQGJS",
+      "favs": [
+        "18",
+        "16",
+        "1",
+        "15"
+      ],
+      "avatar": "https://gravatar.com/avatar",
+      "email": "bot@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "nintendo",
+      "emoji": "👑",
+      "cover": "https://i.pinimg.com/originals/d9/f0/ad/d9f0ad94a6b16e52861ba30705ad05c3.png",
+      "path": "/photos/nintendo"
+    },
+    {
+      "id": 2,
+      "name": "sega",
+      "emoji": "😎",
+      "cover": "https://i.ytimg.com/vi/8qO7kUFpwLM/hqdefault.jpg",
+      "path": "/photos/sega"
+    },
+    {
+      "id": 3,
+      "name": "playstation",
+      "emoji": "💰",
+      "cover": "https://w7.pngwing.com/pngs/24/817/png-transparent-playstation-4-raiders-of-the-broken-planet-playstation-network-playstation-plus-playstation-electronics-text-trademark.png",
+      "path": "/photos/playstation"
+    },
+    {
+      "id": 4,
+      "name": "pcEngine",
+      "emoji": "🤓",
+      "cover": "https://res.cloudinary.com/teepublic/image/private/s--Y5m9bsJf--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-227,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-338,y_-215/b_rgb:000000/c_limit,f_jpg,h_630,q_90,w_630/v1602526613/production/designs/14960443_0.jpg",
+      "path": "/photos/pcEngine"
+    },
+    {
+      "id": 5,
+      "name": "snk",
+      "emoji": "🔥",
+      "cover": "https://i1.wp.com/codigoespagueti.com/wp-content/uploads/2018/09/snk.png?fit=1080%2C608&quality=80&ssl=1",
+      "path": "/photos/snk"
+    },
+    {
+      "id": 6,
+      "name": "atari",
+      "emoji": "💩",
+      "cover": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/atari_logo_origen.png?fit=550%2C268",
+      "path": "/photos/atari"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "src": "https://i.imgur.com/snX4lTV.png",
+      "userId": 1,
+      "likes": 45
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "src": "https://imgur.com/URBxBLw.png",
+      "userId": 1,
+      "likes": 1
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "src": "https://imgur.com/sw54YTL.png",
+      "userId": 2,
+      "likes": 15
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "src": "https://imgur.com/D6oNddK.png",
+      "userId": 1,
+      "likes": 1
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "src": "https://imgur.com/Fpmtwdu.png",
+      "userId": 1,
+      "likes": 40
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "src": "https://imgur.com/GdZlyum.png",
+      "userId": 3,
+      "likes": 6
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "src": "https://imgur.com/Z9EEWvv.png",
+      "userId": 1,
+      "likes": 7
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "src": "https://imgur.com/QA6FP6r.png",
+      "userId": 1,
+      "likes": 40
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "src": "https://imgur.com/AgdWTvY.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "src": "https://imgur.com/0q8Ca9D.png",
+      "userId": 1,
+      "likes": 3
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "src": "https://imgur.com/3biRvza.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "src": "https://imgur.com/X3UyxJr.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "src": "https://imgur.com/klyYecn.png",
+      "userId": 1,
+      "likes": 7
+    },
+    {
+      "id": 19,
+      "categoryId": 5,
+      "src": "https://imgur.com/uqot6rk.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "categoryId": 5,
+      "src": "https://imgur.com/VCXLQqL.png",
+      "userId": 1,
+      "likes": 27
+    },
+    {
+      "id": 10,
+      "categoryId": 6,
+      "src": "https://imgur.com/RNKdxTn.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "src": "https://imgur.com/X0FAMqi.png",
+      "userId": 1,
+      "likes": 21
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "src": "https://imgur.com/SdjC6Bj.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "src": "https://imgur.com/X3XB807.png",
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "src": "https://imgur.com/juTwnPO.png",
+      "userId": 1,
+      "likes": 27
+    }, 
+
+    {
+      "id": 50,
+      "categoryId": 2,
+      "src": "https://imgur.com/MkvI1Mt.png",
+      "userId": 1,
+      "likes": 27
+    },
+
+    {
+      "id": 51,
+      "categoryId": 1,
+      "src": "https://imgur.com/wOxYWJA.png",
+      "userId": 1,
+      "likes": 27
+    },
+
+    {
+      "id": 52,
+      "categoryId": 1,
+      "src": "https://imgur.com/tSslNxv.png",
+      "userId": 1,
+      "likes": 27
+    }
+
+
+
+  ]
+}
